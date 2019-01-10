@@ -1,0 +1,25 @@
+[
+  {
+    "DbConnection": "Server=TTPOWERBI000\\SQLEXPRESS;Database=ExecutiveDW;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "Log" : "C:\\Logs",
+    "commands": [
+      "dbo.ConnectToSource",
+      "dbo.sp_staging_customer_care_service_level",
+      "dbo.sp_staging_customer_care_service_level_avg_ans_delay",
+      "dbo.sp_staging_customer_care_service_level_calls",
+      "dbo.sp_staging_customer_care_service_level_daily_stats",
+      "dbo.sp_staging_customer_care_service_level_wrk_grp"
+    ]
+  },
+
+  {
+    "DbConnection": "Server=TTPOWERBI000\\SQLEXPRESS;Database=ExecutiveDashboard;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "Log" : "C:\\Logs",
+    "commands": [
+      "dbo.SP_UPDATE_SERVICE_LEVEL",
+      "dbo.SP_UPDATE_AVG_ANS_DELAY",
+      "dbo.SP_UPDATE_SERVICE_LEVEL_CALLS",
+      "dbo.SP_UPDATE_SERVICE_LEVEL_DAILYSTATS_WORKGROUP"
+    ]
+  }
+]

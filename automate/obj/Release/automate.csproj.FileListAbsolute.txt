@@ -1,0 +1,10 @@
+C:\Users\freak\source\repos\automate\automate\bin\Release\automate.exe.config
+C:\Users\freak\source\repos\automate\automate\bin\Release\automate.exe
+C:\Users\freak\source\repos\automate\automate\bin\Release\automate.pdb
+C:\Users\freak\source\repos\automate\automate\bin\Release\Newtonsoft.Json.dll
+C:\Users\freak\source\repos\automate\automate\bin\Release\Newtonsoft.Json.pdb
+C:\Users\freak\source\repos\automate\automate\bin\Release\Newtonsoft.Json.xml
+C:\Users\freak\source\repos\automate\automate\obj\Release\automate.csproj.CoreCompileInputs.cache
+C:\Users\freak\source\repos\automate\automate\obj\Release\automate.csproj.CopyComplete
+C:\Users\freak\source\repos\automate\automate\obj\Release\automate.exe
+C:\Users\freak\source\repos\automate\automate\obj\Release\automate.pdb
